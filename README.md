@@ -1,7 +1,7 @@
 # ARVR Immersive Learning Solution (Car Parts) 🚗🔧🔍
 
 ## Description ℹ️
-This repository contains the source code and documentation for the ARVR Immersive Learning Solution focusing on car parts. The project aims to provide an immersive educational experience for learners interested in understanding various automotive components such as engines, batteries, and fuel systems.
+This repository contains the source code and documentation for the ARVR Immersive Learning Solution focusing on car parts. The project aims to provide an immersive educational experience for learners interested in understanding various automotive components such as engines, batteries, and fuel systems. Developed in collaboration with our industry partner, Siliconmax ARVR, this project combines cutting-edge technology with educational content to enhance learning outcomes.
 
 ## Features 🌟
 - Development of 3D models representing car parts 🖥️
